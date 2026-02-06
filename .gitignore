@@ -146,3 +146,11 @@ vite.config.ts.timestamp-*
 
 # Misc
 .DS_Store
+*.pem
+*.key
+*.p12
+credentials.json
+service-account*.json
+.env.mcp
+__pycache__/
+*.pyc
